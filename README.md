@@ -1,7 +1,9 @@
 # Alif Mas Sastro Nugroho
 
-Informatics Engineering student at Universitas Pamulang, focused on building practical, scalable, and user-centric software solutions. Experienced in web development, automation tools, and system utilities, with a track record of contributing to campus-focused technological initiatives.
+Informatics Engineering student at Universitas Pamulang, focused on building practical, scalable, and user-centric software solutions. Experienced in web development, automation tools, and AI-driven systems, with a track record of contributing to campus-focused technological initiatives.
+
 ---
+
 ##  Projects Showcase
 
 ### **Kalivergo**
