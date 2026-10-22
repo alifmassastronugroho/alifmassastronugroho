@@ -39,7 +39,7 @@ Informatics Engineering student at Universitas Pamulang, focused on building pra
 
 - **LinkedIn**: [linkedin.com/in/alif-mas-sastro-nugroho](https://www.linkedin.com/in/alif-mas-sastro-nugroho-0886b2425)
 - **Instagram**: [@amsn_serve](https://instagram.com/amsn_serve)
-- **Email**: [your.email@example.com](mailto:your.email@example.com) *(Replace with your active email)*
+- **Email**: [alifmassastronugroho@gmail.com](mailto:your.alifmassastronugroho@gmail.com.com) 
 
 ---
 
