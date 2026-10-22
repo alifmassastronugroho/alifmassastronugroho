@@ -18,13 +18,13 @@ Informatics Engineering student at Universitas Pamulang, focused on building pra
   An integrated class management platform for task tracking, financial management, and seminar activity monitoring. Designed specifically for university departments, study programs, and campus organizations. *(TypeScript)*
 
 - **[Portfolio](https://github.com/alifmassastronugroho/portfolio)**  
-  A responsive personal portfolio website built to showcase technical competencies, projects, and professional experience in a structured manner. *(TypeScript)*
+  A responsive personal portfolio website built to showcase technical competencies, projects, and professional experience in a structured manner. 
 
 - **[Discord Bot](https://github.com/Techfourma/discord-bot)**  
-  A custom Discord bot developed for server automation, community moderation, and utility management. *(Python)*
+  A custom Discord bot developed for server automation, community moderation, and utility management. 
 
 - **[AegisCrow](https://github.com/alifmassastronugroho/AegisCrow)**  
-  An actively developed personal project focused on system utilities and automation. *(Ganti kalimat ini dengan 1 kalimat singkat tentang apa fungsi AegisCrow sebenarnya)*
+  An actively developed personal project focused on system utilities and automation.
 
 ---
 
