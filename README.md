@@ -1,13 +1,13 @@
 # Alif Mas Sastro Nugroho
 
-Informatics Engineering student at Universitas Pamulang, focused on building practical, scalable, and user-centric software solutions. Experienced in web development, automation tools, and rule-based systems, with a track record of contributing to campus-focused technological initiatives.
+Informatics Engineering student at Universitas Pamulang, focused on building practical, scalable, and user-centric software solutions. Experienced in web development, automation tools, and system utilities, with a track record of contributing to campus-focused technological initiatives.
 
 ---
 
 ## 💻 Tech Stack
 
 - **Languages**: TypeScript, Python, JavaScript, HTML/CSS
-- **Focus Areas**: Web Development, Bot Automation, Expert Systems (Forward Chaining)
+- **Focus Areas**: Web Development, Bot Automation, System Utilities
 - **Tools**: Git, GitHub, VS Code
 
 ---
@@ -24,7 +24,7 @@ Informatics Engineering student at Universitas Pamulang, focused on building pra
   A custom Discord bot developed for server automation, community moderation, and utility management. *(Python)*
 
 - **[AegisCrow](https://github.com/alifmassastronugroho/AegisCrow)**  
-  An actively developed personal project focused on [system utility / automation / security tooling]. *(Update this bracketed text with the actual purpose of the project)*
+  An actively developed personal project focused on system utilities and automation. *(Ganti kalimat ini dengan 1 kalimat singkat tentang apa fungsi AegisCrow sebenarnya)*
 
 ---
 
@@ -39,7 +39,7 @@ Informatics Engineering student at Universitas Pamulang, focused on building pra
 
 - **LinkedIn**: [linkedin.com/in/alif-mas-sastro-nugroho](https://www.linkedin.com/in/alif-mas-sastro-nugroho-0886b2425)
 - **Instagram**: [@amsn_serve](https://instagram.com/amsn_serve)
-- **Email**: [alifmassastronugroho@gmail.com](mailto:your.alifmassastronugroho@gmail.com.com) 
+- **Email**: [alifmassastronugroho@gmail.com](mailto:alifmassastronugroho@gmail.com)
 
 ---
 
