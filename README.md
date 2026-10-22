@@ -67,21 +67,9 @@ System utilities dan automation tools untuk meningkatkan produktivitas dan efisi
 ---
 
 ##  Connect with Me
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/alif-mas-sastro-nugroho-0886b2425" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
-  </a>
-  <a href="https://instagram.com/amsn_serve" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" alt="Instagram" width="32" height="32"/>
-  </a>
-  <a href="mailto:alifmassastronugroho@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg" alt="Email" width="32" height="32"/>
-  </a>
-</div>
-
-
+- **LinkedIn**: [linkedin.com/in/alif-mas-sastro-nugroho](https://www.linkedin.com/in/alif-mas-sastro-nugroho-0886b2425)
+- **Instagram**: [@amsn_serve](https://instagram.com/amsn_serve)
+- **Email**: [alifmassastronugroho@gmail.com](mailto:alifmassastronugroho@gmail.com)
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifmassastronugroho&show_icons=true&locale=en" alt="alifmassastronugroho" /></p>
