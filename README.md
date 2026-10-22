@@ -23,8 +23,8 @@ Informatics Engineering student at Universitas Pamulang, focused on building pra
 - **[Discord Bot](https://github.com/Techfourma/discord-bot)**  
   A custom Discord bot developed for server automation, community moderation, and utility management. *(Python)*
 
-- **[Forward Chaining](https://github.com/JundiLesmana/Forward-Chaining)**  
-  A web-based implementation of an expert system using the Forward Chaining inference method to support logical decision-making processes. *(HTML/JavaScript)*
+- **[AegisCrow](https://github.com/alifmassastronugroho/AegisCrow)**  
+  An actively developed personal project focused on [system utility / automation / security tooling]. *(Update this bracketed text with the actual purpose of the project)*
 
 ---
 
