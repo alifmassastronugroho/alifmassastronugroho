@@ -3,18 +3,6 @@
 Informatics Engineering student at Universitas Pamulang, focused on building practical, scalable, and user-centric software solutions. Experienced in web development, automation tools, and system utilities, with a track record of contributing to campus-focused technological initiatives.
 
 ---
-
-##  Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 15px; margin-bottom: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 15px; margin-bottom: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 15px; margin-bottom: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 15px; margin-bottom: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 15px; margin-bottom: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 15px; margin-bottom: 10px;"/>
-</div>
-
 ---
 ##  Projects Showcase
 
