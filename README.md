@@ -2,7 +2,7 @@
 
 Informatics Engineering student at Universitas Pamulang, focused on building practical, scalable, and user-centric software solutions. Experienced in web development, automation tools, and AI-driven systems, with a track record of contributing to campus-focused technological initiatives.
 
----
+
 
 ##  Projects Showcase
 
@@ -45,20 +45,20 @@ System utilities dan automation tools untuk meningkatkan produktivitas dan efisi
 </a><br>
 <sub>Tags: Python, Utilities, Automation</sub>
 </td></tr></table>
----
+
 
 ##  Recent Activity
 
 - Actively contributing to the development of **Kalivergo** and other repositories under the **Techfourma** organization.
 - Developing and maintaining personal projects, including **AegisCrow** and portfolio system updates.
 
----
+
 
 ##  Connect with Me
 - **LinkedIn**: [linkedin.com/in/alif-mas-sastro-nugroho](https://www.linkedin.com/in/alif-mas-sastro-nugroho-0886b2425)
 - **Instagram**: [@amsn_serve](https://instagram.com/amsn_serve)
 - **Email**: [alifmassastronugroho@gmail.com](mailto:alifmassastronugroho@gmail.com)
----
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifmassastronugroho&show_icons=true&locale=en" alt="alifmassastronugroho" /></p>
 
