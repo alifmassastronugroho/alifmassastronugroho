@@ -15,7 +15,7 @@ Informatics Engineering student at Universitas Pamulang, focused on building pra
 ## 📂 Featured Projects
 
 - **[Kalivergo](https://github.com/Techfourma/Kalivergo)**  
-  An integrated class management platform for task tracking, financial management, and seminar activity monitoring. Designed specifically for university departments, study programs, and campus organizations. *(TypeScript)*
+  An integrated class management platform for task tracking, financial management, and seminar activity monitoring. Designed specifically for university departments, study programs, and campus organizations. 
 
 - **[Portfolio](https://github.com/alifmassastronugroho/portfolio)**  
   A responsive personal portfolio website built to showcase technical competencies, projects, and professional experience in a structured manner. 
