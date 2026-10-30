@@ -10,7 +10,7 @@
   <em>I build web apps, automation tools, and AI-driven systems for campus and freelance work.</em>
 </p>
 
-[**kalivergo.vercel.app →**](https://kalivergo.vercel.app)
+[**Portfolio →**](https://moneralepy.vercel.app)
 
 * * *
 
